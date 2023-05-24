@@ -19,14 +19,10 @@ Stack:
 * Swift concurrency
 * Snapkit for autolayout
 
-<img width="150" alt="Screenshot 2023-05-23 at 10 48 25" src="https://github.com/Idanthyrsus/New-Project/assets/105043706/95b7b07a-c995-4f86-9b92-650254c39e9f">
+<img width="150" alt="Screenshot 2023-05-23 at 10 48 25" src="https://github.com/Idanthyrsus/New-Project/assets/105043706/f61cde7e-1275-485b-85bf-8805a7e98ac9">
+<img width="150" alt="Screenshot 2023-05-23 at 10 48 45" src="https://github.com/Idanthyrsus/New-Project/assets/105043706/36bd13e5-ec89-444d-acd8-13c01f0360ed">
+<img width="150" alt="Screenshot 2023-05-23 at 10 48 55" src="https://github.com/Idanthyrsus/New-Project/assets/105043706/084c9f62-bf9e-4c13-8830-c4cfbdc7ff63">
+<img width="150" alt="Screenshot 2023-05-23 at 10 51 41" src="https://github.com/Idanthyrsus/New-Project/assets/105043706/a021b371-faba-4b51-8e2a-bbc7cef13638">
+<img width="150" alt="Screenshot 2023-05-23 at 10 52 06" src="https://github.com/Idanthyrsus/New-Project/assets/105043706/88e4ed66-adc7-4e3f-9c47-227ab79d841a">
+<img width="150" alt="Screenshot 2023-05-23 at 10 52 39" src="https://github.com/Idanthyrsus/New-Project/assets/105043706/4582d88f-e57d-4167-b732-0be033f8dbbd">
 
-<img width="150" alt="Screenshot 2023-05-23 at 10 48 45" src="https://github.com/Idanthyrsus/New-Project/assets/105043706/707f401e-3e03-44ef-8735-1cb4dbfcfdc3">
-
-<img width="150" alt="Screenshot 2023-05-23 at 10 48 55" src="https://github.com/Idanthyrsus/New-Project/assets/105043706/351bca94-3268-430b-aacb-60299184dec3">
-
-<img width="150" alt="Screenshot 2023-05-23 at 10 51 41" src="https://github.com/Idanthyrsus/New-Project/assets/105043706/5f1bd599-ba32-4f84-8b55-40912c2c1994">
-
-<img width="150" alt="Screenshot 2023-05-23 at 10 52 06" src="https://github.com/Idanthyrsus/New-Project/assets/105043706/4cced570-d5e2-47e3-b7ea-7ce4c69d9e69">
-
-<img width="150" alt="Screenshot 2023-05-23 at 10 52 39" src="https://github.com/Idanthyrsus/New-Project/assets/105043706/86cea9ed-ca60-4667-84e6-d7b599c37171">
