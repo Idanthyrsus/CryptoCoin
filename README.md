@@ -2,7 +2,7 @@
 
 Crypto currency app. 
 
-This repository contains two implementations: in UIKit and SwiftUI
+This repository contains two implementations: UIKit and SwiftUI
 
 
 
